@@ -22,7 +22,7 @@ Ensure your system has the following installed:
 ### 2️⃣ Clone the Repository
 ```sh
 # Clone this project (if using GitHub)
-git clone https://github.com/your-username/resume-ranker.git
+git clone https://github.com/sgr-8426/resumeScanning.git
 cd resumeScanning
 ```
 
