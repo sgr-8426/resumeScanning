@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 ---
 ## 📷 Screenshots
-![Resume Ranker] https://github.com/sgr-8426/resumeScanning/blob/main/Screenshot%202025-03-10%20143625.png
+![Resume Ranker](https://github.com/sgr-8426/resumeScanning/blob/main/Screenshot%202025-03-10%20143625.png)
 
 ---
 ## 🤝 Contributing
@@ -72,4 +72,3 @@ Feel free to contribute by forking this repository and submitting a pull request
 ---
 ## 📜 License
 This project is licensed under the **MIT License**.
-
