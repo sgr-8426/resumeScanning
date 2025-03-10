@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 ---
 ## 📷 Screenshots
-![Resume Ranker](https://via.placeholder.com/800x400.png?text=Resume+Ranking+App+Preview)
+![Resume Ranker] https://github.com/sgr-8426/resumeScanning/blob/main/Screenshot%202025-03-10%20143625.png
 
 ---
 ## 🤝 Contributing
